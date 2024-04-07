@@ -14,6 +14,5 @@ create a path to my inner peace.
 print(favourite_hobby)
 
 # Perform addition of two numbers: 10 and 9
-
 sum = 10 + 9
 print("The sum of 10 and 9 is:", sum)
